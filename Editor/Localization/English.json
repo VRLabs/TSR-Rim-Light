@@ -1,0 +1,39 @@
+{
+    "Properties": [
+        {
+            "Name": "Rim Light",
+            "DisplayName": "Rim Light",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Rim Light_Path",
+            "DisplayName": "Rim Light_Path",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Rim Color",
+            "DisplayName": "Rim Color",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Rim Intensity",
+            "DisplayName": "Rim Intensity",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Rim Strength",
+            "DisplayName": "Rim Strength",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Rim Sharpness",
+            "DisplayName": "Rim Sharpness",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Emissive Rim",
+            "DisplayName": "Emissive Rim",
+            "Tooltip": ""
+        }
+    ]
+}

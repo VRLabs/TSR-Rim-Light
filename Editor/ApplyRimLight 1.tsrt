@@ -1,0 +1,13 @@
+void ApplyRimLight()
+{
+	#if defined (UNITY_PASS_FORWARDBASE)
+		if(_EmissiveRim==1)
+		{
+			FinalColor.rgb += RimLight;
+		}
+		else
+		{
+			FinalColor.rgb *= (RimLight + 1);
+		}
+	#endif
+}

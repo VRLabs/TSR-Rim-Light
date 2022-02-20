@@ -1,0 +1,8 @@
+void CalculateRimLight()
+{
+	#if defined (UNITY_PASS_FORWARDBASE)
+		RimLight = pow((1 - NdotV), max((1 - _RimStrength) * 10, 0.001));
+		_RimSharpness /= 2;
+		RimLight = (smoothstep(_RimSharpness, 1 - _RimSharpness, RimLight) * _RimIntensity) * _RimColor;
+	#endif
+}
