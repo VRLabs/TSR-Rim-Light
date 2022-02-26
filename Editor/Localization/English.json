@@ -1,13 +1,13 @@
 {
     "Properties": [
         {
-            "Name": "Rim Light",
+            "Name": "Rim Light Section",
             "DisplayName": "Rim Light",
             "Tooltip": ""
         },
         {
-            "Name": "Rim Light_Path",
-            "DisplayName": "Rim Light_Path",
+            "Name": "Rim Light Section_Path",
+            "DisplayName": "Effects",
             "Tooltip": ""
         },
         {
