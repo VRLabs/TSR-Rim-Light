@@ -1,0 +1,10 @@
+﻿package-name: TSR.Rim.Ligth
+visual-name: TSR Rim Light
+destination-folder: Assets/VRLabs/Toony Standard Rebuild Modules/TSR Rim Light
+extra-generated-meta:
+  - path: Assets/VRLabs
+    guid: 652a1ba5b00554143bc9a76307dbc4e8
+  - path: Assets/VRLabs/Toony Standard Rebuild Modules
+    guid: d3d02b5b274410849ba3e6c360e2f005
+  - path: Assets/VRLabs/Toony Standard Rebuild Modules/TSR Rim Light
+    guid: e9705f5f99a2dfc43bc87cff6f5377f1

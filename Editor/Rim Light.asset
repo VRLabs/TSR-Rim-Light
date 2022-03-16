@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Id: VRLabs.TSR.RimLight
   Name: Rim Light
-  Version: 1.0
+  Version: master
   Author: VRLabs
   Description: Adds rim light section to the shader
   EnableProperties:
